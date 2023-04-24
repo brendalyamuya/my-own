@@ -54,3 +54,17 @@ a {
 	color: #fa15c9;
     text-decoration: none;
 }
+
+@media screen and (max-width: 600px) {
+    h1{
+        font-size: 20px;
+    }
+
+    h2{
+        font-size: 20px;
+    }
+    
+    #bio-image{
+        margin: 10px;
+    }
+}
