@@ -67,4 +67,9 @@ a {
     #bio-image{
         margin: 10px;
     }
+
+    #contact-info {
+        width: 30%;
+        line-height: 150%;
+    }
 }
